@@ -1,0 +1,12 @@
+D:\C#发布文件\JuHeYaLoginServer\JuHeYaLoginSubServer.exe.config
+D:\C#发布文件\JuHeYaLoginServer\JuHeYaLoginSubServer.exe
+D:\C#发布文件\JuHeYaLoginServer\JuHeYaLoginSubServer.pdb
+D:\C#Project\XiaoYuanMetaSchoolSubServer\JuHeYaLoginSubServer\obj\Debug\XiaoYuanMetaSchoolSubServer.csproj.AssemblyReference.cache
+D:\C#Project\XiaoYuanMetaSchoolSubServer\JuHeYaLoginSubServer\obj\Debug\JuHeYaLoginSubServer.exe.config
+D:\C#Project\XiaoYuanMetaSchoolSubServer\JuHeYaLoginSubServer\obj\Debug\XiaoYuanMetaSchoolSubServer.csproj.CoreCompileInputs.cache
+D:\C#Project\XiaoYuanMetaSchoolSubServer\JuHeYaLoginSubServer\obj\Debug\XiaoYuanMetaSchoolSubServer.csproj.CopyComplete
+D:\C#Project\XiaoYuanMetaSchoolSubServer\JuHeYaLoginSubServer\obj\Debug\JuHeYaLoginSubServer.exe
+D:\C#Project\XiaoYuanMetaSchoolSubServer\JuHeYaLoginSubServer\obj\Debug\JuHeYaLoginSubServer.pdb
+D:\C#发布文件\XiaoYuanMetaSchool\JuHeYaLoginSubServer.exe.config
+D:\C#发布文件\XiaoYuanMetaSchool\JuHeYaLoginSubServer.exe
+D:\C#发布文件\XiaoYuanMetaSchool\JuHeYaLoginSubServer.pdb
