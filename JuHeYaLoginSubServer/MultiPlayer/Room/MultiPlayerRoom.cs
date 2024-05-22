@@ -32,7 +32,6 @@ namespace SubServer
                     {
                         if (mCurTime - mPlayerDataList[i].lastTime > 2)
                         {
-                            Debug.Log("玩家:" + mPlayerDataList[i].account + "掉线了");
                             //该玩家掉线了
                             mPlayerDataList.RemoveAt(i);
                             i--;
